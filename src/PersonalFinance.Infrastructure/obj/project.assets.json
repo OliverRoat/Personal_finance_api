@@ -1222,7 +1222,7 @@
     ]
   },
   "packageFolders": {
-    "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\": {}
+    "C:\\Users\\Olz PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1230,7 +1230,7 @@
       "projectUniqueName": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Infrastructure\\PersonalFinance.Infrastructure.csproj",
       "projectName": "PersonalFinance.Infrastructure",
       "projectPath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Infrastructure\\PersonalFinance.Infrastructure.csproj",
-      "packagesPath": "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Olz PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
