@@ -8,7 +8,7 @@
     "net10.0": []
   },
   "packageFolders": {
-    "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\": {}
+    "C:\\Users\\Olz PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,7 +16,7 @@
       "projectUniqueName": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Domain\\PersonalFinance.Domain.csproj",
       "projectName": "PersonalFinance.Domain",
       "projectPath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Domain\\PersonalFinance.Domain.csproj",
-      "packagesPath": "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Olz PC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [

@@ -19,7 +19,6 @@ C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\De
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
@@ -69,3 +68,7 @@ C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\obj\De
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\obj\Debug\net10.0\PersonalFinance.Api.pdb
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\obj\Debug\net10.0\PersonalFinance.Api.genruntimeconfig.cache
 C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\obj\Debug\net10.0\ref\PersonalFinance.Api.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Api\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
