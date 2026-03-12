@@ -1,0 +1,12 @@
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\bin\Debug\net8.0\PersonalFinance.Domain.deps.json
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\bin\Debug\net8.0\PersonalFinance.Domain.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\bin\Debug\net8.0\PersonalFinance.Domain.pdb
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.AssemblyInfoInputs.cache
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.AssemblyInfo.cs
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.sourcelink.json
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\refint\PersonalFinance.Domain.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\PersonalFinance.Domain.pdb
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Domain\obj\Debug\net8.0\ref\PersonalFinance.Domain.dll

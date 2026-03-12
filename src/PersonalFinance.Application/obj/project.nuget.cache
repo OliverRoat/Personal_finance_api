@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5pTi1O1nlMs=",
+  "dgSpecHash": "fmRKtJ77kyA=",
   "success": true,
   "projectFilePath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Application\\PersonalFinance.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Olz PC\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\Olz PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
-    "C:\\Users\\Olz PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+    "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1677,7 +1677,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Olz PC\\.nuget\\packages\\": {}
+    "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1685,7 +1685,7 @@
       "projectUniqueName": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Api\\PersonalFinance.Api.csproj",
       "projectName": "PersonalFinance.Api",
       "projectPath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Api\\PersonalFinance.Api.csproj",
-      "packagesPath": "C:\\Users\\Olz PC\\.nuget\\packages\\",
+      "packagesPath": "c:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\.dotnet-home\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Olz PC\\CodeProjects\\Personal_finance_api\\src\\PersonalFinance.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [

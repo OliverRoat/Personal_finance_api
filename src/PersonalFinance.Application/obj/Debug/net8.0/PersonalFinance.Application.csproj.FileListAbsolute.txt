@@ -1,0 +1,16 @@
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\bin\Debug\net8.0\PersonalFinance.Application.deps.json
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\bin\Debug\net8.0\PersonalFinance.Application.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\bin\Debug\net8.0\PersonalFinance.Application.pdb
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\bin\Debug\net8.0\PersonalFinance.Domain.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\bin\Debug\net8.0\PersonalFinance.Domain.pdb
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.csproj.AssemblyReference.cache
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.AssemblyInfoInputs.cache
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.AssemblyInfo.cs
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.csproj.CoreCompileInputs.cache
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.sourcelink.json
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\Personal.75513863.Up2Date
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\refint\PersonalFinance.Application.dll
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\PersonalFinance.Application.pdb
+C:\Users\Olz PC\CodeProjects\Personal_finance_api\src\PersonalFinance.Application\obj\Debug\net8.0\ref\PersonalFinance.Application.dll
