@@ -3,7 +3,7 @@
 ASP.NET Core Web API for tracking personal income/expenses with categories and summary totals.
 
 ## Tech stack
-- .NET 8 (SDK 10.x can build .NET 8 projects)
+- .NET 10
 - ASP.NET Core
 - Entity Framework Core
 - SQLite
